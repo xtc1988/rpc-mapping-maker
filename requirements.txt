@@ -1,0 +1,3 @@
+# 基本的な依存関係
+pandas>=1.3.0
+typing-extensions>=4.0.0
